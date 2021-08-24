@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906992449051",
+    "project_id": "quizzupp-30c43",
+    "storage_bucket": "quizzupp-30c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906992449051:android:81f5cee708ad1f1ae16abe",
+        "android_client_info": {
+          "package_name": "com.akagra.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906992449051-tr9jm874qkr86drc9tikqt38nce5vlkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7jy3gc8Va08Q4IkzY1swTcyO2sJNy-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906992449051-tr9jm874qkr86drc9tikqt38nce5vlkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
